@@ -1,6 +1,6 @@
 # Hi, I'm Nakshatra 👋
 
-### Builder | Problem Solver | Early-Stage Engineer
+### Builder | Problem Solver | Early Stage Engineer
 
 I am a builder who enjoys turning vague ideas into working products. I care about **execution over perfection**, learning quickly from feedback, and building things that solve real problems.
 
