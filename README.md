@@ -153,29 +153,92 @@ Instead of just memorizing solutions, ThinkFlow helps you:
 
 ## 💡 What I Care About
 
+<div align="center">
+
 <table>
 <tr>
-<td>🎯 Building products that are <strong>useful, simple, and outcome-driven</strong></td>
-<td>🔥 Learning fast by <strong>shipping, breaking, improving</strong></td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%E2%9C%A8-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**Outcome-Driven**
+
+Building products that are useful, simple,
+and focused on real impact
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%94%A5-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**Ship → Break → Improve**
+
+Learning fast by putting things
+out into the world
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%A7%A9-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**High Ownership**
+
+Taking initiative instead of
+waiting for instructions
+
+</td>
 </tr>
 <tr>
-<td>🧩 Taking ownership instead of waiting for instructions</td>
-<td>❓ Understanding the <em>why</em> before jumping to solutions</td>
-</tr>
-<tr>
-<td>⚡ Clarity, honesty, and momentum in teams</td>
-<td>🏗️ Simplest viable solution, then iterate</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%E2%9D%93-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**Why-First Thinking**
+
+Understanding the *why* before
+jumping to solutions
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%E2%9A%A1-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**Clarity & Momentum**
+
+Honest communication and keeping
+teams moving forward
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/-%F0%9F%8F%97%EF%B8%8F-0f0c29?style=for-the-badge&labelColor=302b63" />
+
+**Iterate > Perfect**
+
+Simplest viable solution first,
+then refine relentlessly
+
+</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## 📈 Currently Leveling Up
 
-- [ ] Building end-to-end products **independently**
-- [ ] Writing **cleaner, more maintainable** code
-- [ ] Understanding **system trade-offs** and constraints
-- [ ] Communicating **technical decisions** more effectively
+<div align="center">
+
+![Goal 1](https://img.shields.io/badge/%F0%9F%9A%80_Building_end--to--end_products_independently-302b63?style=for-the-badge&labelColor=0f0c29)
+
+![Goal 2](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Writing_cleaner%2C_more_maintainable_code-302b63?style=for-the-badge&labelColor=0f0c29)
+
+![Goal 3](https://img.shields.io/badge/%F0%9F%94%A7_Understanding_system_trade--offs_%26_constraints-302b63?style=for-the-badge&labelColor=0f0c29)
+
+![Goal 4](https://img.shields.io/badge/%F0%9F%92%AC_Communicating_technical_decisions_effectively-302b63?style=for-the-badge&labelColor=0f0c29)
+
+</div>
 
 ---
 
@@ -183,9 +246,19 @@ Instead of just memorizing solutions, ThinkFlow helps you:
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=30&lines=Open+to+collaborations+%26+startup+opportunities+%F0%9F%91%8B" alt="Connect Typing SVG" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakshatra%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakshatra-sharma-022281367)
+&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-nakshatra.sharma3012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakshatra.sharma3012@gmail.com)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Nakshatra480-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nakshatra480)
+
+<br/>
+
+<img src="https://img.shields.io/badge/💬_Let's_build_something_meaningful_together-7c3aed?style=flat-square&labelColor=1a1a2e" alt="tagline"/>
 
 </div>
 
