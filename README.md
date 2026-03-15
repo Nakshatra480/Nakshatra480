@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER — capsule-render waving banner, deep purple/dark  -->
+<!-- ANIMATED HEADER - capsule-render waving banner, deep purple/dark  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakshatra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Early%20Stage%20Engineer&descAlignY=58&descSize=18"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TYPING ANIMATION — exact URL as specified                         -->
+<!-- TYPING ANIMATION - exact URL as specified                         -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Turning+vague+ideas+into+working+products;Execution+over+perfection+%E2%9C%A8;Building+ThinkFlow+%F0%9F%9A%80;Learning+by+shipping%2C+breaking%2C+improving" alt="Typing SVG" />
@@ -32,7 +32,7 @@
       <p>I am a <b>Builder, Problem Solver, and Early-Stage Engineer</b>. I specialize in turning ambiguous problems into clean, working solutions.</p>
       <p><b>My core philosophy:</b> <i>Execution over perfection. Ship, learn, iterate.</i> ✨</p>
       <ul>
-        <li>🚀 <b>Currently Building:</b> <b>ThinkFlow</b> — A step-by-step DSA learning platform.</li>
+        <li>🚀 <b>Currently Building:</b> <b>ThinkFlow</b> - A step-by-step DSA learning platform.</li>
         <li>🧠 <b>Core Strengths:</b> DSA & Algorithms • API Design • Object-Oriented Programming</li>
         <li>🎯 <b>Looking For:</b> Early-stage startups, High-ownership roles, BOA org selection</li>
       </ul>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 ThinkFlow — Current Project
+## 🚀 ThinkFlow - Current Project
 
 <div align="center">
   <h2>🧠 ThinkFlow</h2>
@@ -176,7 +176,7 @@ Train your engineering intuition to solve unseen problems.
 
 <div align="center">
 
-<!-- Snake animation (requires GitHub Actions — see snake.yml) -->
+<!-- Snake animation (requires GitHub Actions - see snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
@@ -187,7 +187,7 @@ Train your engineering intuition to solve unseen problems.
 
 <br/>
 
-<!-- Activity Graph — always works, no Actions required -->
+<!-- Activity Graph - always works, no Actions required -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra480&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
@@ -289,7 +289,7 @@ then refine relentlessly
 
 <div align="center">
 
-I'm always up for a good conversation — whether it's about **building side projects**,
+I'm always up for a good conversation - whether it's about **building side projects**,
 **cracking DSA problems together**, or just **nerding out over clean architecture**.
 
 If you're working on something cool or know a team that values **ownership & hustle**,
