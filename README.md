@@ -246,19 +246,23 @@ then refine relentlessly
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=A78BFA&center=true&vCenter=true&width=500&height=30&lines=Open+to+collaborations+%26+startup+opportunities+%F0%9F%91%8B" alt="Connect Typing SVG" />
+I'm always up for a good conversation — whether it's about **building side projects**,
+**cracking DSA problems together**, or just **nerding out over clean architecture**.
 
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakshatra%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakshatra-sharma-022281367)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-nakshatra.sharma3012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakshatra.sharma3012@gmail.com)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Nakshatra480-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nakshatra480)
+If you're working on something cool or know a team that values **ownership & hustle**,
+I'd love to hear from you 👋
 
 <br/>
 
-<img src="https://img.shields.io/badge/💬_Let's_build_something_meaningful_together-7c3aed?style=flat-square&labelColor=1a1a2e" alt="tagline"/>
+<a href="https://www.linkedin.com/in/nakshatra-sharma-022281367"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:nakshatra.sharma3012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="https://github.com/Nakshatra480"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/>
+
+*"The best way to predict the future is to build it."* 🚀
 
 </div>
 
