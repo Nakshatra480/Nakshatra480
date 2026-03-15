@@ -29,11 +29,11 @@
 const nakshatra: Engineer = {
     role       : "Builder | Problem Solver | Early Stage Engineer",
     building   : "ThinkFlow 🚀 — DSA learning platform for step-by-step thinking",
-    philosophy : "Execution over perfection. Ship, learn, iterate.",
-    lookingFor : ["Early stage startups", "High-ownership engineering roles", "BOA org selection"],
-    superpower : "Turning ambiguous problems into clean, working solutions",
+    philosophy : "Execution over perfection. Ship, learn, iterate. ✨",
+    lookingFor : ["Early stage startups", "High-ownership roles", "BOA org selection"],
+    superpower : "Turning ambiguous problems into clean, working solutions ⚡",
     strengths  : ["DSA & Algorithms", "API Design", "Object-Oriented Programming"],
-    motto      : "Focused on momentum, ownership, and learning by building.",
+    motto      : "Focused on momentum, ownership, and learning by building. 🔥"
 };
 ```
 
@@ -41,34 +41,47 @@ const nakshatra: Engineer = {
 
 ## 🚀 ThinkFlow — Current Project
 
+> ### 🧠 ThinkFlow 
+> **A next-generation platform designed to help developers build strong problem-solving logic through step-by-step DSA practice.**
+> <br/>
+> [![Status](https://img.shields.io/badge/Status-In_Active_Development-7c3aed?style=flat-square)](https://github.com/Nakshatra480)
+
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-### What is ThinkFlow?
-A **learning platform** designed to help developers build strong problem-solving logic through **step-by-step DSA practice**.
+### ✨ The Philosophy
 
-Instead of just memorizing solutions, ThinkFlow helps you:
-- 🔍 Break problems into **logical steps**
-- 🔁 Reinforce patterns through **deliberate practice**
-- 🧠 Move from *knowing syntax* → **thinking like an engineer**
+Instead of blindly memorizing solutions, ThinkFlow retrains how you approach problems:
 
-**Target:** Learners preparing for FAANG & high-growth startups
+- 🔍 **Deconstruct:** Break ambiguous problems into logical steps.
+- 🔁 **Reinforce:** Master core patterns through deliberate practice.
+- 💡 **Build Intuition:** Move from *knowing syntax* to *thinking like an engineer*.
+
+<br/>
+
+**🎯 Target Audience:** Learners preparing for FAANG & high-growth startups  
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center" valign="top">
 
-```
-🎯 Problem → Think → Build
-       ↓
-  No copy-paste
-       ↓
-  Real intuition
-       ↓
-  Ship it 🚀
+### 🚀 The Workflow
+
+```text
+      🎯 Problem 
+          ↓ 
+      💭 Think 
+          ↓ 
+      💻 Build 
+          ↓ 
+   🚫 No copy-paste
+          ↓ 
+   💡 Real intuition
+          ↓ 
+      🚀 Ship it 
 ```
 
-**Status:** `In Active Development`
+<br/>
 
 [![ThinkFlow](https://img.shields.io/badge/ThinkFlow-Coming%20Soon-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Nakshatra480)
 
