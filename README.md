@@ -41,7 +41,7 @@
     <td width="35%" align="center" valign="center">
       <img src="https://github.com/Nakshatra480.png" width="160" style="border-radius: 50%" />
       <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=200&lines=Writing+Code+🚀;Solving+Problems+🧠;Building+Products+🛠️" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=250&lines=Writing+Code+%F0%9F%9A%80;Solving+Problems+%F0%9F%A7%A0;Building+Products+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
     </td>
   </tr>
 </table>
