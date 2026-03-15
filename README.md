@@ -1,10 +1,16 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakshatra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Early%20Stage%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED HEADER — capsule-render waving banner, deep purple/dark  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Turning+vague+ideas+into+working+products;Execution+over+perfection+%E2%9C%A8;Building+ThinkFlow+%F0%9F%9A%80;Learning+by+shipping%2C+breaking%2C+improving" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakshatra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Early%20Stage%20Engineer&descAlignY=58&descSize=18"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- TYPING ANIMATION — exact URL as specified                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Turning+vague+ideas+into+working+products;Execution+over+perfection+%E2%9C%A8;Building+ThinkFlow+%F0%9F%9A%80;Learning+by+shipping%2C+breaking%2C+improving" alt="Typing SVG" />
 
 <br/>
 
@@ -20,13 +26,14 @@
 ## 🧠 About Me
 
 ```typescript
-const nakshatra = {
-  role: "Builder | Problem Solver | Early Stage Engineer",
-  currentProject: "ThinkFlow 🚀 — DSA learning platform for engineers who think",
-  philosophy: "Execution over perfection. Ship, learn, iterate.",
-  lookingFor: "Early stage startups & high-ownership engineering roles",
-  superpower: "Turning ambiguous problems into clean, working solutions",
-  motto: "Focused on momentum, ownership, and learning by building.",
+const nakshatra: Engineer = {
+    role       : "Builder | Problem Solver | Early Stage Engineer",
+    building   : "ThinkFlow 🚀 — DSA learning platform for step-by-step thinking",
+    philosophy : "Execution over perfection. Ship, learn, iterate.",
+    lookingFor : ["Early stage startups", "High-ownership engineering roles", "BOA org selection"],
+    superpower : "Turning ambiguous problems into clean, working solutions",
+    strengths  : ["DSA & Algorithms", "API Design", "Object-Oriented Programming"],
+    motto      : "Focused on momentum, ownership, and learning by building.",
 };
 ```
 
@@ -109,13 +116,15 @@ Instead of just memorizing solutions, ThinkFlow helps you:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra480&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra480&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra480&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra480&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Nakshatra480&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -123,14 +132,22 @@ Instead of just memorizing solutions, ThinkFlow helps you:
 ## 🐍 Contribution Activity
 
 <div align="center">
+
+<!-- Snake animation (requires GitHub Actions — see snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
+
 </div>
 
-> ⚠️ **Note:** To enable the snake animation, add this GitHub Action to your profile repo — see setup guide below.
+<br/>
+
+<!-- Activity Graph — always works, no Actions required -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra480&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
 
 ---
 
