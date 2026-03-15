@@ -1,82 +1,181 @@
-# Hi, I'm Nakshatra 👋
+<div align="center">
 
-### Builder | Problem Solver | Early Stage Engineer
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakshatra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Early%20Stage%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-I am a builder who enjoys turning vague ideas into working products. I care about **execution over perfection**, learning quickly from feedback, and building things that solve real problems.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Turning+vague+ideas+into+working+products;Execution+over+perfection+%E2%9C%A8;Building+ThinkFlow+%F0%9F%9A%80;Learning+by+shipping%2C+breaking%2C+improving" alt="Typing SVG" />
 
-I’m most comfortable in environments where ownership matters, iteration is fast, and impact is visible.
+<br/>
 
----
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=Nakshatra480&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Nakshatra480?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
 
-## 🚀 What I Care About
-
-- Building products that are **useful, simple, and outcome-driven**
-- Learning fast by **shipping, breaking, and improving**
-- Taking ownership instead of waiting for instructions
-- Understanding the *why* behind problems before jumping to solutions
-- Working with people who value clarity, honesty, and momentum
-
----
-
-## 🧠 How I Approach Building
-
-- Start with the **user problem**, not the tech stack
-- Build the **simplest viable version**
-- Iterate based on feedback and real usage
-- Refactor only when it improves clarity or velocity
-- Prefer readable, maintainable solutions over clever abstractions
+</div>
 
 ---
 
-## 🚧 Current Project
+## 🧠 About Me
 
-### **ThinkFlow**
-
-**ThinkFlow** is a learning platform designed to help developers **build strong problem solving logic through step by step DSA practice**.
-
-Instead of focusing only on solutions, ThinkFlow emphasizes:
-- Breaking problems into **logical steps**
-- Reinforcing patterns through **deliberate practice**
-- Helping learners move from *knowing syntax* to *thinking like engineers*
-
-The platform is aimed at learners preparing for **software roles at tech giants as well as early stage startups**, where strong fundamentals and clear thinking matter.
-
-**What I’m building & learning through ThinkFlow:**
-- Designing learning flows that reduce cognitive overload
-- Translating abstract DSA concepts into practical intuition
-- Building features incrementally based on learner needs
-- Balancing product thinking with solid engineering foundations
-
-👉 Project link (coming soon)
+```typescript
+const nakshatra = {
+  role: "Builder | Problem Solver | Early Stage Engineer",
+  currentProject: "ThinkFlow 🚀 — DSA learning platform for engineers who think",
+  philosophy: "Execution over perfection. Ship, learn, iterate.",
+  lookingFor: "Early stage startups & high-ownership engineering roles",
+  superpower: "Turning ambiguous problems into clean, working solutions",
+  motto: "Focused on momentum, ownership, and learning by building.",
+};
+```
 
 ---
 
-## 🛠️ Technical Foundation
+## 🚀 ThinkFlow — Current Project
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks & Tools:** React, Node.js, Express, Git, Docker
-- **Databases:** PostgreSQL, MongoDB
-- **Core Strengths:**  
-  Data Structures & Algorithms, API Design, Object-Oriented Programming
+<table>
+<tr>
+<td width="60%">
 
-I treat technology as a **means to ship better products faster**, not the goal itself.
+### What is ThinkFlow?
+A **learning platform** designed to help developers build strong problem-solving logic through **step-by-step DSA practice**.
+
+Instead of just memorizing solutions, ThinkFlow helps you:
+- 🔍 Break problems into **logical steps**
+- 🔁 Reinforce patterns through **deliberate practice**
+- 🧠 Move from *knowing syntax* → **thinking like an engineer**
+
+**Target:** Learners preparing for FAANG & high-growth startups
+
+</td>
+<td width="40%" align="center">
+
+```
+🎯 Problem → Think → Build
+       ↓
+  No copy-paste
+       ↓
+  Real intuition
+       ↓
+  Ship it 🚀
+```
+
+**Status:** `In Active Development`
+
+[![ThinkFlow](https://img.shields.io/badge/ThinkFlow-Coming%20Soon-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Nakshatra480)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌱 Currently Improving
+## 🛠️ Tech Stack
 
-- Building end to end products independently
-- Writing clearer, more maintainable code
-- Understanding system trade-offs and constraints
-- Communicating technical decisions more effectively
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Core Strengths**
+
+![DSA](https://img.shields.io/badge/DSA%20%26%20Algorithms-7c3aed?style=for-the-badge)
+![API Design](https://img.shields.io/badge/API%20Design-0ea5e9?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-10b981?style=for-the-badge)
+
+</div>
 
 ---
 
-## 🤝 Let’s Connect
+## 📊 GitHub Stats
 
-- **LinkedIn:** www.linkedin.com/in/nakshatra-sharma-022281367
-- **Email:** nakshatra.sharma3012@gmail.com
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra480&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra480&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra480&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+</div>
 
 ---
 
-*Focused on momentum, ownership, and learning by building.*
+## 🐍 Contribution Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
+</picture>
+</div>
+
+> ⚠️ **Note:** To enable the snake animation, add this GitHub Action to your profile repo — see setup guide below.
+
+---
+
+## 💡 What I Care About
+
+<table>
+<tr>
+<td>🎯 Building products that are <strong>useful, simple, and outcome-driven</strong></td>
+<td>🔥 Learning fast by <strong>shipping, breaking, improving</strong></td>
+</tr>
+<tr>
+<td>🧩 Taking ownership instead of waiting for instructions</td>
+<td>❓ Understanding the <em>why</em> before jumping to solutions</td>
+</tr>
+<tr>
+<td>⚡ Clarity, honesty, and momentum in teams</td>
+<td>🏗️ Simplest viable solution, then iterate</td>
+</tr>
+</table>
+
+---
+
+## 📈 Currently Leveling Up
+
+- [ ] Building end-to-end products **independently**
+- [ ] Writing **cleaner, more maintainable** code
+- [ ] Understanding **system trade-offs** and constraints
+- [ ] Communicating **technical decisions** more effectively
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nakshatra%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakshatra-sharma-022281367)
+[![Email](https://img.shields.io/badge/Email-nakshatra.sharma3012%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakshatra.sharma3012@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nakshatra480-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nakshatra480)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=a78bfa&animation=fadeIn&desc=Focused%20on%20momentum%2C%20ownership%2C%20and%20learning%20by%20building.&descAlignY=65&descSize=14&descColor=a78bfa"/>
+
+</div>
