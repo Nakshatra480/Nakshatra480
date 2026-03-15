@@ -23,67 +23,97 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-```typescript
-const nakshatra: Engineer = {
-    role       : "Builder | Problem Solver | Early Stage Engineer",
-    building   : "ThinkFlow 🚀 — DSA learning platform for step-by-step thinking",
-    philosophy : "Execution over perfection. Ship, learn, iterate. ✨",
-    lookingFor : ["Early stage startups", "High-ownership roles", "BOA org selection"],
-    superpower : "Turning ambiguous problems into clean, working solutions ⚡",
-    strengths  : ["DSA & Algorithms", "API Design", "Object-Oriented Programming"],
-    motto      : "Focused on momentum, ownership, and learning by building. 🔥"
-};
-```
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>👋 Hi, I'm Nakshatra!</h3>
+      <p>I am a <b>Builder, Problem Solver, and Early-Stage Engineer</b>. I specialize in turning ambiguous problems into clean, working solutions.</p>
+      <p><b>My core philosophy:</b> <i>Execution over perfection. Ship, learn, iterate.</i> ✨</p>
+      <ul>
+        <li>🚀 <b>Currently Building:</b> <b>ThinkFlow</b> — A step-by-step DSA learning platform.</li>
+        <li>🧠 <b>Core Strengths:</b> DSA & Algorithms • API Design • Object-Oriented Programming</li>
+        <li>🎯 <b>Looking For:</b> Early-stage startups, High-ownership roles, BOA org selection</li>
+      </ul>
+      <p><i>Focused on momentum, ownership, and learning by building.</i> 🔥</p>
+    </td>
+    <td width="35%" align="center" valign="center">
+      <img src="https://github.com/Nakshatra480.png" width="160" style="border-radius: 50%" />
+      <br/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=200&lines=Writing+Code+🚀;Solving+Problems+🧠;Building+Products+🛠️" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 ThinkFlow — Current Project
 
-> ### 🧠 ThinkFlow 
-> **A next-generation platform designed to help developers build strong problem-solving logic through step-by-step DSA practice.**
-> <br/>
-> [![Status](https://img.shields.io/badge/Status-In_Active_Development-7c3aed?style=flat-square)](https://github.com/Nakshatra480)
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### ✨ The Philosophy
-
-Instead of blindly memorizing solutions, ThinkFlow retrains how you approach problems:
-
-- 🔍 **Deconstruct:** Break ambiguous problems into logical steps.
-- 🔁 **Reinforce:** Master core patterns through deliberate practice.
-- 💡 **Build Intuition:** Move from *knowing syntax* to *thinking like an engineer*.
+<div align="center">
+  <h2>🧠 ThinkFlow</h2>
+  <p><b>Moving from <i>knowing syntax</i> to <i>thinking like an engineer</i>.</b></p>
+  <p>A next-generation platform designed to help developers build strong problem-solving logic through step-by-step DSA practice.</p>
+  <img src="https://img.shields.io/badge/Status-In_Active_Development-7c3aed?style=for-the-badge" />
+</div>
 
 <br/>
 
-**🎯 Target Audience:** Learners preparing for FAANG & high-growth startups  
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 💡 The Philosophy
+
+No more blind memorization. ThinkFlow retrains your brain to approach problems logically:
+
+<br/>
+
+<img src="https://img.shields.io/badge/1.-Deconstruct_Problems-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
+Break ambiguous problems into step-by-step logical requirements.
+
+<br/>
+
+<img src="https://img.shields.io/badge/2.-Deliberate_Practice-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
+Master core patterns instead of cramming solutions.
+
+<br/>
+
+<img src="https://img.shields.io/badge/3.-Build_Intuition-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
+Train your engineering intuition to solve unseen problems.
+
+<br/><br/>
+
+**🎯 Target Audience:** Learners preparing for FAANG & high-growth startups.
 
 </td>
 <td width="45%" align="center" valign="top">
 
-### 🚀 The Workflow
+### ⚙️ The Workflow
 
 ```text
-      🎯 Problem 
-          ↓ 
-      💭 Think 
-          ↓ 
-      💻 Build 
-          ↓ 
-   🚫 No copy-paste
-          ↓ 
-   💡 Real intuition
-          ↓ 
-      🚀 Ship it 
+ ╭──────────────╮
+ │  🎯 Problem  │
+ ╰──────┬───────╯
+        ↓
+ ╭──────────────╮
+ │ 💭 Logic &   │
+ │    Patterns  │
+ ╰──────┬───────╯
+        ↓
+ ╭──────────────╮
+ │ 💻 Build It  │
+ │(No copy-paste)│
+ ╰──────┬───────╯
+        ↓
+ ╭──────────────╮
+ │ 🚀 Ship It!  │
+ ╰──────────────╯
 ```
 
 <br/>
 
-[![ThinkFlow](https://img.shields.io/badge/ThinkFlow-Coming%20Soon-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Nakshatra480)
+[![ThinkFlow](https://img.shields.io/badge/ThinkFlow-Coming_Soon-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Nakshatra480)
 
 </td>
 </tr>
