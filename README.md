@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/55-merged_PRs_upstream-E0A526?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/experienced-open_source_contributor-E0A526?style=flat-square&labelColor=1a1a1a" />
 &nbsp;
-<img src="https://img.shields.io/badge/04-OSS_projects-E0A526?style=flat-square&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/upstream-infrastructure_%26_systems-E0A526?style=flat-square&labelColor=1a1a1a" />
 &nbsp;
 <img src="https://img.shields.io/badge/CNCF_·_Rust_·_Ethereum-ecosystems-E0A526?style=flat-square&labelColor=1a1a1a" />
 &nbsp;
@@ -34,7 +34,7 @@ I build AI systems end to end - the model, the pipeline that feeds it, and the p
 
 I like the whole stack of the problem: framing it, getting the data honest, training something that holds up out of sample, then wrapping it in an interface people will actually use. That has meant **LSTM forecasters** trading against live Binance data, **Gemini-backed assistants** with real conversation memory, and real-time collaborative systems on WebSockets.
 
-The other half of my time goes to open-source infrastructure - **55 merged pull requests** across CNCF security tooling, a Rust JavaScript engine, GPU virtualisation middleware and an Ethereum client.
+The other half of my time goes to open-source infrastructure. I am an **experienced open-source contributor** with sustained, merged work across CNCF security tooling, a Rust JavaScript engine, GPU virtualisation middleware and an Ethereum client.
 
 `B.Tech Computer Science & Engineering` · `India`
 
@@ -58,31 +58,31 @@ The other half of my time goes to open-source infrastructure - **55 merged pull 
 <th align="left">Project</th>
 <th align="left">What it is</th>
 <th align="center">Lang</th>
-<th align="center">Merged</th>
+<th align="left">My focus there</th>
 </tr>
 <tr>
 <td><a href="https://github.com/kubescape/kubescape"><b>Kubescape</b></a></td>
 <td>CNCF Kubernetes security posture scanner</td>
 <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/30-E0A526?style=flat-square&labelColor=1a1a1a"/></td>
+<td><sub>scan pipeline · SBOM · anonymiser</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/boa-dev/boa"><b>Boa</b></a></td>
 <td>Embeddable JavaScript engine in Rust</td>
 <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/16-E0A526?style=flat-square&labelColor=1a1a1a"/></td>
+<td><sub>VM semantics · built-ins · Fetch runtime</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/Project-HAMi/HAMi"><b>HAMi</b></a></td>
 <td>CNCF heterogeneous GPU virtualisation</td>
 <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/6-E0A526?style=flat-square&labelColor=1a1a1a"/></td>
+<td><sub>vGPU metrics hardening</sub></td>
 </tr>
 <tr>
 <td><a href="https://github.com/besu-eth/besu"><b>Besu</b></a></td>
 <td>Ethereum execution client</td>
 <td align="center"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
-<td align="center"><img src="https://img.shields.io/badge/3-E0A526?style=flat-square&labelColor=1a1a1a"/></td>
+<td><sub>JSON-RPC trace &amp; debug APIs</sub></td>
 </tr>
 </table>
 
