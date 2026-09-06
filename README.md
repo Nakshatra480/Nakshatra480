@@ -1,318 +1,155 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ANIMATED HEADER - capsule-render waving banner, deep purple/dark  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3d2b1f,100:c47f00&height=200&section=header&text=Nakshatra%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Open%20Source%20Contributor&descAlignY=58&descSize=18"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nakshatra%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Early%20Stage%20Engineer&descAlignY=58&descSize=18"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TYPING ANIMATION - exact URL as specified                         -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Turning+vague+ideas+into+working+products;Execution+over+perfection+%E2%9C%A8;Building+ThinkFlow+%F0%9F%9A%80;Learning+by+shipping%2C+breaking%2C+improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=E0A526&center=true&vCenter=true&width=620&height=48&lines=i+train+models+and+ship+them;data+pipelines+that+hold+up;llm+products+people+use;open+source%2C+merged+upstream" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=Nakshatra480&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Nakshatra480?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="followers"/>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>👋 Hi, I'm Nakshatra!</h3>
-      <p>I am a <b>Builder, Problem Solver, and Early-Stage Engineer</b>. I specialize in turning ambiguous problems into clean, working solutions.</p>
-      <p><b>My core philosophy:</b> <i>Execution over perfection. Ship, learn, iterate.</i> ✨</p>
-      <ul>
-        <li>🚀 <b>Currently Building:</b> <b>ThinkFlow</b> - A step-by-step DSA learning platform.</li>
-        <li>🧠 <b>Core Strengths:</b> DSA & Algorithms • API Design • Object-Oriented Programming</li>
-        <li>🎯 <b>Looking For:</b> Early-stage startups, High-ownership roles, BOA org selection</li>
-      </ul>
-      <p><i>Focused on momentum, ownership, and learning by building.</i> 🔥</p>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://github.com/Nakshatra480.png" width="160" style="border-radius: 50%" />
-      <br/><br/>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=250&lines=Writing+Code+%F0%9F%9A%80;Solving+Problems+%F0%9F%A7%A0;Building+Products+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 ThinkFlow - Current Project
-
-<div align="center">
-  <h2>🧠 ThinkFlow</h2>
-  <p><b>Moving from <i>knowing syntax</i> to <i>thinking like an engineer</i>.</b></p>
-  <p>A next-generation platform designed to help developers build strong problem-solving logic through step-by-step DSA practice.</p>
-  <img src="https://img.shields.io/badge/Status-In_Active_Development-7c3aed?style=for-the-badge" />
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-### 💡 The Philosophy
-
-No more blind memorization. ThinkFlow retrains your brain to approach problems logically:
-
-<br/>
-
-<img src="https://img.shields.io/badge/1.-Deconstruct_Problems-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
-Break ambiguous problems into step-by-step logical requirements.
-
-<br/>
-
-<img src="https://img.shields.io/badge/2.-Deliberate_Practice-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
-Master core patterns instead of cramming solutions.
-
-<br/>
-
-<img src="https://img.shields.io/badge/3.-Build_Intuition-1a1a2e?style=for-the-badge&logoColor=7c3aed&labelColor=7c3aed&color=1a1a2e" />  
-Train your engineering intuition to solve unseen problems.
+<a href="https://my-portfolio-sage-six-35.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=E0A526" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/nakshatra-sharma-022281367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:nakshatra.sharma3012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-**🎯 Target Audience:** Learners preparing for FAANG & high-growth startups.
+<img src="https://img.shields.io/badge/55-merged_PRs_upstream-E0A526?style=flat-square&labelColor=1a1a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/04-OSS_projects-E0A526?style=flat-square&labelColor=1a1a1a" />
+&nbsp;
+<img src="https://img.shields.io/badge/CNCF_·_Rust_·_Ethereum-ecosystems-E0A526?style=flat-square&labelColor=1a1a1a" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Nakshatra480&label=views&color=c47f00&style=flat-square" alt="views"/>
 
-</td>
-<td width="45%" align="center" valign="top">
-
-### ⚙️ The Workflow
-
-```text
- ╭──────────────╮
- │  🎯 Problem  │
- ╰──────┬───────╯
-        ↓
- ╭──────────────╮
- │ 💭 Logic &   │
- │    Patterns  │
- ╰──────┬───────╯
-        ↓
- ╭──────────────╮
- │ 💻 Build It  │
- │(No copy-paste)│
- ╰──────┬───────╯
-        ↓
- ╭──────────────╮
- │ 🚀 Ship It!  │
- ╰──────────────╯
-```
-
-<br/>
-
-[![ThinkFlow](https://img.shields.io/badge/ThinkFlow-Coming_Soon-7c3aed?style=for-the-badge&logo=rocket&logoColor=white)](https://github.com/Nakshatra480)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About
+
+I build AI systems end to end - the model, the pipeline that feeds it, and the product it ships inside.
+
+I like the whole stack of the problem: framing it, getting the data honest, training something that holds up out of sample, then wrapping it in an interface people will actually use. That has meant LSTM forecasters trading against live Binance data, Gemini-backed assistants with real conversation memory, and real-time collaborative systems built on WebSockets.
+
+The other half of my time goes to open-source infrastructure - **55 merged pull requests** across CNCF security tooling, a Rust JavaScript engine, GPU virtualisation middleware and an Ethereum client.
+
+`B.Tech Computer Science & Engineering` · `India`
+
+---
+
+## Open Source
+
+<table>
+<tr>
+<th align="left">Project</th>
+<th align="left">What it is</th>
+<th align="center">Lang</th>
+<th align="center">Merged</th>
+</tr>
+<tr>
+<td><a href="https://github.com/kubescape/kubescape"><b>Kubescape</b></a></td>
+<td>CNCF Kubernetes security posture scanner</td>
+<td align="center"><code>Go</code></td>
+<td align="center"><b>30</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/boa-dev/boa"><b>Boa</b></a></td>
+<td>Embeddable JavaScript engine in Rust</td>
+<td align="center"><code>Rust</code></td>
+<td align="center"><b>16</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Project-HAMi/HAMi"><b>HAMi</b></a></td>
+<td>CNCF heterogeneous GPU virtualisation</td>
+<td align="center"><code>Go</code></td>
+<td align="center"><b>6</b></td>
+</tr>
+<tr>
+<td><a href="https://github.com/besu-eth/besu"><b>Besu</b></a></td>
+<td>Ethereum execution client</td>
+<td align="center"><code>Java</code></td>
+<td align="center"><b>3</b></td>
+</tr>
+</table>
+
+**What that work looked like**
+
+- **Kubescape** - scan pipeline internals: control filtering, output formats, SBOM emission, an MCP server surface, and the anonymiser that scrubs identifying data before results leave the cluster.
+- **Boa** - VM completion-record semantics for `Yield`/`Return`, ECMAScript built-ins (`Iterator.concat`, `atob`/`btoa`), and the WHATWG Fetch runtime including `AbortController` and `Request`/`Response.clone()`.
+- **HAMi** - hardened the vGPU monitor's metrics scrape path against panics on malformed or uninitialised device state.
+- **Besu** - fixed unhandled exceptions and off-by-one validation in the JSON-RPC trace and debug APIs; enriched the readiness endpoint with diagnostics.
+
+---
+
+## Tech
 
 <div align="center">
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
+**Data & Product**
 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Core Strengths**
-
-![DSA](https://img.shields.io/badge/DSA%20%26%20Algorithms-7c3aed?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API%20Design-0ea5e9?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-10b981?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra480&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra480&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra480&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra480&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Nakshatra480&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<!-- Snake animation (requires GitHub Actions - see snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Nakshatra480/Nakshatra480/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
-<br/>
-
-<!-- Activity Graph - always works, no Actions required -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra480&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 💡 What I Care About
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%E2%9C%A8-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**Outcome-Driven**
-
-Building products that are useful, simple,
-and focused on real impact
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%F0%9F%94%A5-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**Ship → Break → Improve**
-
-Learning fast by putting things
-out into the world
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%F0%9F%A7%A9-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**High Ownership**
-
-Taking initiative instead of
-waiting for instructions
-
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%E2%9D%93-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**Why-First Thinking**
-
-Understanding the *why* before
-jumping to solutions
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%E2%9A%A1-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**Clarity & Momentum**
-
-Honest communication and keeping
-teams moving forward
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://img.shields.io/badge/-%F0%9F%8F%97%EF%B8%8F-0f0c29?style=for-the-badge&labelColor=302b63" />
-
-**Iterate > Perfect**
-
-Simplest viable solution first,
-then refine relentlessly
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Currently Leveling Up
-
-<div align="center">
-
-![Goal 1](https://img.shields.io/badge/%F0%9F%9A%80_Building_end--to--end_products_independently-302b63?style=for-the-badge&labelColor=0f0c29)
-
-![Goal 2](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Writing_cleaner%2C_more_maintainable_code-302b63?style=for-the-badge&labelColor=0f0c29)
-
-![Goal 3](https://img.shields.io/badge/%F0%9F%94%A7_Understanding_system_trade--offs_%26_constraints-302b63?style=for-the-badge&labelColor=0f0c29)
-
-![Goal 4](https://img.shields.io/badge/%F0%9F%92%AC_Communicating_technical_decisions_effectively-302b63?style=for-the-badge&labelColor=0f0c29)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm always up for a good conversation - whether it's about **building side projects**,
-**cracking DSA problems together**, or just **nerding out over clean architecture**.
-
-If you're working on something cool or know a team that values **ownership & hustle**,
-I'd love to hear from you 👋
-
-<br/>
-
-<a href="https://www.linkedin.com/in/nakshatra-sharma-022281367"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:nakshatra.sharma3012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/Nakshatra480"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/>
-
-*"The best way to predict the future is to build it."* 🚀
-
-</div>
-
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=20&fontColor=a78bfa&animation=fadeIn&desc=Focused%20on%20momentum%2C%20ownership%2C%20and%20learning%20by%20building.&descAlignY=65&descSize=14&descColor=a78bfa"/>
+### Building something with AI?
+
+Happy to talk about ML systems, upstream contributions, or anything that needs shipping.
+
+<a href="https://my-portfolio-sage-six-35.vercel.app/"><b>Portfolio</b></a> ·
+<a href="mailto:nakshatra.sharma3012@gmail.com"><b>Email</b></a> ·
+<a href="https://www.linkedin.com/in/nakshatra-sharma-022281367"><b>LinkedIn</b></a> ·
+<a href="https://github.com/Nakshatra480"><b>GitHub</b></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c47f00,50:3d2b1f,100:1a1a1a&height=110&section=footer"/>
 
 </div>
