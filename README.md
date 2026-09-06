@@ -39,9 +39,11 @@ The other half of my time goes to open-source infrastructure. I am an **experien
 `B.Tech Computer Science & Engineering` · `India`
 
 </td>
-<td width="38%" align="center" valign="top">
+<td width="38%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://github.com/Nakshatra480.png" width="230" alt="Nakshatra Sharma"/>
+
+<sub><b>ship it. break it. ship it again.</b></sub>
 
 </td>
 </tr>
